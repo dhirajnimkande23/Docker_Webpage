@@ -127,7 +127,7 @@ git config --list
 
 
 
-Here’s a clear **documentation and explanation** of the Git commands you just used, which are related to **cloning a repo**, **moving files**, **tracking changes**, and **pushing commits** to GitHub.
+
 
 ---
 
@@ -312,7 +312,7 @@ Moves Dockerfile and nano.tar.gz into a subdirectory called Docker_Webpage/.
 
 ✅ Purpose: Organize project files inside a specific folder.
 
-⚠️ Note: If Docker_Webpage/ is already your current directory, and there's a subfolder also named Docker_Webpage/, this can cause confusion. Double-check the folder structure.
+
 
 4. Change Directory Again
 cd Docker_Webpage/
