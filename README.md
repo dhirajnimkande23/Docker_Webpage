@@ -91,7 +91,7 @@ git config --global user.name "dhiraj"
 ### 7. **Set Git Email (Global)**
 
 ```bash
-git config --global user.email "dhirajnimkande23@gmail.com"
+git config --global user.email "email address"
 ```
 
 * Sets your Git global email address.
